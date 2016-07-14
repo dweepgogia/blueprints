@@ -1,5 +1,5 @@
 {
-	"name": "nginx-1-11-1",
+	"name": "Nginx-1-11-1",
 	"description": "Nginx is a web server which can act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.",
 	"defaultRouteAction": "allow",
 	"services": [
