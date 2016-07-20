@@ -88,6 +88,14 @@
     "icon": "https://raw.githubusercontent.com/NirmataOSS/blueprints/master/mongodb.png"
   },
   {
+    "name": "MongoDB",
+    "version": "3.3.9",
+    "description": "MongoDB is a cross-platform document-oriented database. Requires 3 containers & 3 hosts.",
+    "filename": "MongoDB-3-3-9.json",
+    "application": "MongoDB-3-3-9",
+    "icon": "https://raw.githubusercontent.com/NirmataOSS/blueprints/master/mongodb.png"
+  },
+  {
     "name": "OpenStack Icehouse",
     "description": "Core OpenStack services running in Docker containers. For more details, see https://github.com/Nirmata/openstack",
     "filename": "openstack.json",
